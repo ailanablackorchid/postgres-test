@@ -1,0 +1,9 @@
+body{
+	background: #fff;
+}
+
+#myChart{
+	display: block;
+	height: 400px;
+	width: 400px;
+}
